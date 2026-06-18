@@ -1,5 +1,3 @@
-# Criacao-de-ferramentas-Basicas
-
 # Criação de Ferramentas Básicas:
 
 Repositório com aplicações desenvolvidas em **Python** utilizando **PySide6**, voltadas ao aprendizado de programação e desenvolvimento de interfaces gráficas.
